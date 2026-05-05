@@ -1,0 +1,5 @@
+{
+  "name": "SYS FREIGHTERS",
+  "description": "Professional trucking and dispatch services providing reliable logistics solutions across the USA.",
+  "requestFramePermissions": ["geolocation"]
+}
