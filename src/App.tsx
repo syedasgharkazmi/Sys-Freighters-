@@ -448,7 +448,7 @@ const Footer = () => {
             <ul className="space-y-4 text-slate-500">
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-orange-600" />
-                <span>(614) 615-7517</span>
+                <span>614-606-0416</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-orange-600" />
@@ -870,7 +870,7 @@ const Home = ({ onOpenBooking, onOpenContact }: { onOpenBooking: () => void, onO
                       </div>
                       <div>
                         <div className="text-slate-400 text-sm font-bold uppercase tracking-widest mb-1">Call Us</div>
-                        <div className="text-xl font-bold">(614) 615-7517</div>
+                        <div className="text-xl font-bold">614-606-0416</div>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
